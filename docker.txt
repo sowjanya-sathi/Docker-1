@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/32047660/docker-for-windows-not-working
+ docker-machine upgrade
+docker-machine restart defaulte
+docker version
+export DOCKER_API_VERSION=1.21
+https://crondev.com/running-docker-behind-proxy/
+https://github.com/docker/toolbox/issues/102--proxy
+http://containertutorials.com/docker-compose/spring-boot-app.html
+https://www.youtube.com/watch?v=6vjo3pMXW7I--war to tomcat using docker hub
+
+https://www.youtube.com/watch?v=FlSup_eelYE
+https://mydevgeek.com/spring-boot-docker/
